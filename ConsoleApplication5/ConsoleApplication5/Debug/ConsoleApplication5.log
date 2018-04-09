@@ -1,5 +1,7 @@
 ﻿  ConsoleApplication5.cpp
-c:\users\mathias\documents\github\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(154): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
-c:\users\mathias\documents\github\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(154): warning C4305: "+=": Verkürzung von "double" in "float"
-  LINK : C:\Users\mathias\Documents\GitHub\stockmanager-\ConsoleApplication5\Debug\ConsoleApplication5.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
-  ConsoleApplication5.vcxproj -> C:\Users\mathias\Documents\GitHub\stockmanager-\ConsoleApplication5\Debug\ConsoleApplication5.exe
+c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(213): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(214): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(218): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(221): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(226): warning C4101: "n": Unreferenzierte lokale Variable
+  ConsoleApplication5.vcxproj -> C:\Users\Leon\Desktop\FH\ALG\stockmanager-\ConsoleApplication5\Debug\ConsoleApplication5.exe
