@@ -1,5 +1,4 @@
-﻿  stdafx.cpp
-  ConsoleApplication5.cpp
+﻿  ConsoleApplication5.cpp
 c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(144): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
 c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(145): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
 c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(149): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
