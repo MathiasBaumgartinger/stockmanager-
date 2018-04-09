@@ -1,5 +1,4 @@
 ﻿  ConsoleApplication5.cpp
-c:\users\mathias\documents\github\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(154): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
-c:\users\mathias\documents\github\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(154): warning C4305: "+=": Verkürzung von "double" in "float"
-  LINK : C:\Users\mathias\Documents\GitHub\stockmanager-\ConsoleApplication5\Debug\ConsoleApplication5.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+c:\users\mathias\documents\github\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(163): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\mathias\documents\github\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(163): warning C4305: "+=": Verkürzung von "double" in "float"
   ConsoleApplication5.vcxproj -> C:\Users\mathias\Documents\GitHub\stockmanager-\ConsoleApplication5\Debug\ConsoleApplication5.exe
