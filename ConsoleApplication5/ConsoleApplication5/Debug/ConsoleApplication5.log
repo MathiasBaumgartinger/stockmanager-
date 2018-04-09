@@ -1,7 +1,7 @@
 ﻿  ConsoleApplication5.cpp
+c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(143): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
 c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(144): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
-c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(145): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
-c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(149): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
-c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(152): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
-c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(157): warning C4101: "n": Unreferenzierte lokale Variable
+c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(148): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(151): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\leon\desktop\fh\alg\stockmanager-\consoleapplication5\consoleapplication5\consoleapplication5.cpp(156): warning C4101: "n": Unreferenzierte lokale Variable
   ConsoleApplication5.vcxproj -> C:\Users\Leon\Desktop\FH\ALG\stockmanager-\ConsoleApplication5\Debug\ConsoleApplication5.exe
